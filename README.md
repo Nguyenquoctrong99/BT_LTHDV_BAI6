@@ -15,3 +15,17 @@ Trang chủ (Home Page)
 Đăng nhập (Sign in)
 <img width="1920" height="1080" alt="sign_in" src="https://github.com/user-attachments/assets/65e3a4e8-cd23-4c79-9f85-5b46f925002d" />
 
+Đăng xuất (Logout)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1287649-dc87-4d1f-9dfb-6590c7931ba7" />
+
+Quên mật khẩu (Forget password)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/10b6e88c-e87a-451a-9e22-ce186a3e2428" />
+---------------------------------
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4a18d12e-5b0d-4652-8858-12ab4909f2e7" />
+----------------------------
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/93814df9-4453-45cf-a8fb-a4c1f5754f74" />
+
+Đăng nhập với mật khẩu mới (Sign in with new password)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/25edb0b6-9278-4fce-a800-32bd18d451e8" />
+
