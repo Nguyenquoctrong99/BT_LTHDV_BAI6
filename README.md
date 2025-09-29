@@ -1,0 +1,6 @@
+Đăng ký tài khoản (Sign Up)
+Kiểm tra cơ sở dữ liệu MongoDB (Mongo_user)
+Đăng nhập bằng Google (Sign in with Google)
+Trang chủ (Home Page)
+Đổi mật khẩu (Change password)
+Đăng nhập (Sign in)
