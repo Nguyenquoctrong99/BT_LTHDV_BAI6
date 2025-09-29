@@ -1,0 +1,14 @@
+# Ignore all file in .vscode
+.vscode/
+
+# Ignore all files in node_modules
+node_modules/
+
+# Ignore all files in dist
+dist/
+
+# Ignore all files in coverage
+coverage/
+
+# Ignore all files in .env
+.env
