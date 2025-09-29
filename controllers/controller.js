@@ -158,12 +158,16 @@ export class UserPostController {
       if (!isPasswordCorrect)
         return res.status(400).render("signin", {
           message: "Invalid credentials || Incorrect Password",
+          sitekey: process.env.RECAPTCHA_SITE_KEY,
         });
 
       req.session.userEmail = email;
       res.redirect("/user/homepage");
     } catch (error) {
-      res.status(500).render("signin", { message: error.message });
+      res.status(500).render("signin", { 
+      message: error.message,
+      sitekey: process.env.RECAPTCHA_SITE_KEY,
+      });
     }
   };
 
